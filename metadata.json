@@ -1,0 +1,6 @@
+{
+  "name": "PNCP Cotações - Sistema de Pesquisa de Preços (Lei 14.133/21)",
+  "description": "Sistema de cotação de preços para licitações integrado à API do PNCP com filtragem estatística de outliers e geração de Mapa de Cotação homologado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
